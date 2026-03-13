@@ -4,7 +4,8 @@
 
 <div align="center">
 
-### **Secure Software Development | Cybersecurity Analyst**
+### Virgílio Oliveira 
+#### Secure Software Development | Cybersecurity Analyst
 
 <img src="https://img.shields.io/badge/FATEC--SP-g?style=for-the-badge&logo=education&logoColor=white" alt="FATEC-SP" />
 <img src="https://img.shields.io/badge/ETEC--SP-gray?style=for-the-badge&logo=education&logoColor=white" alt="ETEC-SP" />
