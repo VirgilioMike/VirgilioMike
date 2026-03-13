@@ -37,7 +37,6 @@
    <img src="https://img.shields.io/badge/SAST-2F4F4F?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/DAST-8B0000?style=for-the-badge&logoColor=white" alt="DAST" />
   <img src="https://img.shields.io/badge/SCA-FF6B35?style=for-the-badge&logoColor=white" alt="SCA" />
-  <img src="https://img.shields.io/badge/IAST-6A5ACD?style=for-the-badge&logo=security&logoColor=white" alt="IAST" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
   <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
