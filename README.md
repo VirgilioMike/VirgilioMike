@@ -4,61 +4,50 @@
 
 <div align="center">
 
-  
-**AppSec | S-SDLC | Cybersecurity**
+### **Secure Software Development | Cybersecurity Analyst**
 
-<img src="https://img.shields.io/badge/AppSec-red?style=flat&logo=security&logoColor=white" alt="AppSec" />
-<img src="https://img.shields.io/badge/S--SDLC-brightgreen?style=flat&logo=gitlab&logoColor=white" alt="S-SDLC" />
-<img src="https://img.shields.io/badge/FATEC--SP-blue?style=flat&logo=education&logoColor=white" alt="FATEC-SP" />
+<img src="https://img.shields.io/badge/FATEC--SP-g?style=for-the-badge&logo=education&logoColor=white" alt="FATEC-SP" />
+<img src="https://img.shields.io/badge/ETEC--SP-gray?style=for-the-badge&logo=education&logoColor=white" alt="ETEC-SP" />
 
 </div>
 
----
 
-### 🛡️ Profile
+#### Profile
 
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="Discord" />
-  </a>
+</a>
+ Information Security focused on the predictive protection of web applications, APIs, and systems through vulnerability and risk analysis.
+<br/>
+<br/>
   <a href="https://www.linkedin.com/in/virgiliooliveira-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 🔐 AppSec skills
+---
+
+#### My Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/SAST-Static_Analysis-2F4F4F?style=flat&logo=sonarqube&logoColor=white" alt="SAST" />
-  <img src="https://img.shields.io/badge/DAST-Dynamic_Analysis-8B0000?style=flat&logo=owasp&logoColor=white" alt="DAST" />
-  <img src="https://img.shields.io/badge/SCA-Dependency_Check-FF6B35?style=flat&logo=dependabot&logoColor=white" alt="SCA" />
-  <img src="https://img.shields.io/badge/IAST-Interactive_Testing-6A5ACD?style=flat&logo=security&logoColor=white" alt="IAST" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirgilioMike&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VirgilioMike&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="115" alt="Top Languages" />
-</div>
-
----
-
-### 🎯 Foco Atual
-
-- 🔍 Application Security Testing (SAST, DAST, IAST, SCA)
-- 🛡️ Secure Software Development Lifecycle (S-SDLC)
-- 🔧 DevSecOps e CI/CD Security Integration
-- 📚 Vulnerability Assessment em aplicações web/mobile
-- 🎓 Graduado em Segurança da Informação na FATEC-SP
-
-
-
-
----
-
-<div align="center">
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+   <img src="https://img.shields.io/badge/SAST-2F4F4F?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAST-8B0000?style=for-the-badge&logoColor=white" alt="DAST" />
+  <img src="https://img.shields.io/badge/SCA-FF6B35?style=for-the-badge&logoColor=white" alt="SCA" />
+  <img src="https://img.shields.io/badge/IAST-6A5ACD?style=for-the-badge&logo=security&logoColor=white" alt="IAST" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br/>
 </div>
