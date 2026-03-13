@@ -15,7 +15,7 @@
 #### Profile
 
 </a>
- Information Security focused on the predictive protection of web applications, APIs, and systems through vulnerability and risk analysis.
+Information Security focused on proactive protection of web applications, APIs, and systems. Background in vulnerability assessment, risk analysis, and secure development lifecycle (S-SDLC).
 <br/>
 <br/>
   <a href="https://www.linkedin.com/in/virgiliooliveira-/" target="_blank">
