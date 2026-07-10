@@ -2,6 +2,7 @@
 
 # Cybersecurity Analyst | APPSEC | DevSecOps
 
+<img src="https://img.shields.io/badge/UFV--MG-455A64?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNC45MVYxN2gyVjlNNSAxMy4xOHY0TDEyIDIxbDctMy44MnYtNEwxMiAxN2wtNy0zLjgyeiIvPjwvc3ZnPg==" alt="UFV-MG" />
 <img src="https://img.shields.io/badge/FATEC--SP-455A64?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNC45MVYxN2gyVjlNNSAxMy4xOHY0TDEyIDIxbDctMy44MnYtNEwxMiAxN2wtNy0zLjgyeiIvPjwvc3ZnPg==" alt="FATEC-SP" />
 <img src="https://img.shields.io/badge/ETEC--SP-455A64?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNC45MVYxN2gyVjlNNSAxMy4xOHY0TDEyIDIxbDctMy44MnYtNEwxMiAxN2wtNy0zLjgyeiIvPjwvc3ZnPg==" alt="ETEC-SP" />
 
