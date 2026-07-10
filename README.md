@@ -14,8 +14,6 @@
 
 Information Security focused on proactive protection of web applications, APIs, and systems. Background in vulnerability assessment, risk analysis, and secure development lifecycle (S-SDLC).
 
----
-
 ## My Tech Stack
 
 **Development**
