@@ -14,12 +14,6 @@
 
 Information Security focused on proactive protection of web applications, APIs, and systems. Background in vulnerability assessment, risk analysis, and secure development lifecycle (S-SDLC).
 
-<a href="https://www.linkedin.com/in/virgiliooliveira-/" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/>
-
 ---
 
 ## My Tech Stack
