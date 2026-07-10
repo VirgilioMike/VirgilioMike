@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="156" src="https://c.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif" alt="Hacker Dog GIF" />
+  <img height="156" src="https://c.tenor.com/8wBCqZH60U8AAAAd/tenor.gif" alt="Hacker Cat GIF" />
 </div>
 
 <div align="center">
