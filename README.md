@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="156" src="https://c.tenor.com/8wBCqZH60U8AAAAd/tenor.gif" alt="Hacker Cat GIF" />
-</div>
-
-<div align="center">
-
 #### Secure Software Development | Cybersecurity Analyst
 
 <img src="https://img.shields.io/badge/FATEC--SP-g?style=for-the-badge&logo=education&logoColor=white" alt="FATEC-SP" />
